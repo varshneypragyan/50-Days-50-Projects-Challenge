@@ -1,5 +1,7 @@
 ## ABOUT PROJECT
 
-[title][Expanding Cards]
+[title](Expanding Cards)
+
+---
 
 This project is a template for card animation element in a web-project
