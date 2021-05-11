@@ -1,6 +1,8 @@
 ## ABOUT PROJECT
 
-[title](Expanding Cards)
+---
+
+### Expanding Cards
 
 ---
 
